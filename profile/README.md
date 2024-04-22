@@ -5,9 +5,10 @@ Our apps include:
 - Advanced Microsoft Teams Confluence Connector
 - Advanced Microsoft Teams Bitbucket Connector
 - Microsoft Teams Bamboo Connector
+- Azure DevOps Confluence Connector
+- Azure DevOps for Jira
 - GitHub links for Confluence
 - GitHub links for Jira
-- Azure DevOps Confluence Connector
 - Gitlab Connector for Confluence
 - Slack notifications for Bitbucket
 - Jigit - Jira integration with GitHub, Gitlab and Gerrit

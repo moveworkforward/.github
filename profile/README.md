@@ -1,17 +1,21 @@
-[Move Work Forward](https://www.moveworkforward.com/company) is the Atlassian Platinum Marketplace Vendor.
+[Move Work Forward](https://www.moveworkforward.com/company) is the Atlassian Platinum Marketplace Partner.
 
-Our apps include:
-- Advanced Microsoft Teams Jira Connector
-- Advanced Microsoft Teams Confluence Connector
-- Advanced Microsoft Teams Bitbucket Connector
-- Microsoft Teams Bamboo Connector
-- Azure DevOps Confluence Connector
+Our apps are:
+- Advanced Microsoft Teams for Jira
+- Advanced Microsoft Teams for Confluence
+- Advanced Microsoft Teams for Bitbucket
+- Advanced Microsoft Teams for Bamboo
+- Azure DevOps for Confluence
 - Azure DevOps for Jira
 - GitHub links for Confluence
 - GitHub links for Jira
-- Gitlab Connector for Confluence
+- Gitlab for Confluence
 - Slack notifications for Bitbucket
-- Jigit - Jira integration with GitHub, Gitlab and Gerrit
-- Post webhooks for Bitbucket
+- Jigit - Jira integration with GitHub, Gitlab, Azure DevOps and Gerrit
+- Capybara - Jira, Linear, Azure DevOps integration
+- Post Webhooks for Bitbucket
+- CAD 2D and 3D Model Viewer for Confluence
+- CAD 2D and 3D Model Viewer for Jira
+- CAD 2D and 3D Model Viewer for Outlook
 
 If you need to contact us please use [Move Work Forward's contact page](https://www.moveworkforward.com/company).
